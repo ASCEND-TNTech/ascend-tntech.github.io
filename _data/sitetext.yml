@@ -103,32 +103,32 @@ en: &DEFAULT_EN
         image: assets/img/team/tskjellum.jpg
         social:
           - url: mailto:askjellum@tntech.edu
-            icon: fas fa-envelope
+          icon: fas fa-envelope
       - name: "Katherine Conser"
         role: "?"
         image: assets/img/team/1.jpg
         social:
           - url: mailto:kconser@tntech.edu
-            icon: fas fa-envelope
-       - name: "Corbin Cawood"
+          icon: fas fa-envelope
+      - name: "Corbin Cawood"
         role: "?"
         image: assets/img/team/2.jpg
         social:
           - url: mailto:ccawood@tntech.edu
             icon: fas fa-envelope
-        - name: "Nathan Whiteaker*"
+      - name: "Nathan Whiteaker*"
         role: "?"
         image: assets/img/team/2.jpg
         social:
           - url: mailto:njwhiteaker42@tntech.edu
-            icon: fas fa-envelope
-        - name: "Riley Shipley*"
+          icon: fas fa-envelope
+      - name: "Riley Shipley*"
         role: "Research Software Engineer"
         image: assets/img/team/rshipley.png
         social:
           - url: mailto:rpshipley@tntech.edu
             icon: fas fa-envelope
-        - name: "Evan Suggs*"
+      - name: "Evan Suggs*"
         role: "Research Software Engineer"
         image: assets/img/team/3.jpg
         social:
