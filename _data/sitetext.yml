@@ -124,7 +124,7 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
         - name: "Riley Shipley*"
         role: "Research Software Engineer"
-        image: assets/img/team/rshipley.jpg
+        image: assets/img/team/rshipley.png
         social:
           - url: mailto:rpshipley@tntech.edu
             icon: fas fa-envelope
