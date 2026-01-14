@@ -98,42 +98,33 @@ en: &DEFAULT_EN
     subtext: "*Also a PhD student"
     section: team
     people:
-      - name: "Dr. Tony Skjellum"
-        role: "Center Director"
-        image: assets/img/team/tskjellum.jpg
-        social:
-            - url: mailto:askjellum@tntech.edu
-              icon: fas fa-envelope
-      - name: "Katherine Conser"
-        role: "?"
-        image: assets/img/team/1.jpg
-        social:
-            - url: mailto:kconser@tntech.edu
-              icon: fas fa-envelope
-      - name: "Corbin Cawood"
-        role: "?"
-        image: assets/img/team/2.jpg
-        social:
-            - url: mailto:ccawood@tntech.edu
-              icon: fas fa-envelope
-      - name: "Nathan Whiteaker*"
-        role: "?"
-        image: assets/img/team/2.jpg
-        social:
-            - url: mailto:njwhiteaker42@tntech.edu
-              icon: fas fa-envelope
-      - name: "Riley Shipley*"
-        role: "Research Software Engineer"
-        image: assets/img/team/rshipley.png
-        social:
-            - url: mailto:rpshipley@tntech.edu
-              icon: fas fa-envelope
-      - name: "Evan Suggs*"
-        role: "Research Software Engineer"
-        image: assets/img/team/3.jpg
-        social:
-            - url: mailto:esuggs@tntech.edu
-              icon: fas fa-envelope
+     - category: "Full-Time"
+       members:
+       - name: "Anthony Skjellum"
+         role: "Center Director"
+         email: "askjellum@tntech.edu"
+       - name: "Corbin Cawood"
+         role: "?"
+         email: "ccawood@tntech.edu"
+       - name: "Riley Shipley"
+         role: "Research Software Engineer"
+         email: "rshipley@tntech.edu"
+       - name: "Katherine Cosner"
+         role: "?"
+         email: "kcosner@tntech.edu"
+       - name: "Evan Suggs"
+         role: "Research Software Engineer"
+         email: "esuggs@tntech.edu"
+     - category: "Graduate Students"
+       members:
+       - name: "Nathan Whiteaker"
+         role: "Junior System Administrator"
+         email: "njwhiteake42@tntech.edu"
+     - category: "Undergraduate Students"
+       members:
+       - name: "Javonte Martin"
+         role: "(?)"
+         email: "jmartin42@tntech.edu"
 
  # contact:
  #   title: "Contact Us"
