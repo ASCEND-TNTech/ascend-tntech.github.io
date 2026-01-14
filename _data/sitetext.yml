@@ -102,8 +102,8 @@ en: &DEFAULT_EN
         role: "Center Director"
         image: assets/img/team/tskjellum.jpg
         social:
-          - url: mailto:askjellum@tntech.edu
-          icon: fas fa-envelope
+            - url: mailto:askjellum@tntech.edu
+              icon: fas fa-envelope
       - name: "Katherine Conser"
         role: "?"
         image: assets/img/team/1.jpg
