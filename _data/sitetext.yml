@@ -108,32 +108,32 @@ en: &DEFAULT_EN
         role: "?"
         image: assets/img/team/1.jpg
         social:
-          - url: mailto:kconser@tntech.edu
-          icon: fas fa-envelope
+            - url: mailto:kconser@tntech.edu
+            icon: fas fa-envelope
       - name: "Corbin Cawood"
         role: "?"
         image: assets/img/team/2.jpg
         social:
-          - url: mailto:ccawood@tntech.edu
-            icon: fas fa-envelope
+            - url: mailto:ccawood@tntech.edu
+              icon: fas fa-envelope
       - name: "Nathan Whiteaker*"
         role: "?"
         image: assets/img/team/2.jpg
         social:
-          - url: mailto:njwhiteaker42@tntech.edu
-          icon: fas fa-envelope
+            - url: mailto:njwhiteaker42@tntech.edu
+            icon: fas fa-envelope
       - name: "Riley Shipley*"
         role: "Research Software Engineer"
         image: assets/img/team/rshipley.png
         social:
-          - url: mailto:rpshipley@tntech.edu
-            icon: fas fa-envelope
+            - url: mailto:rpshipley@tntech.edu
+              icon: fas fa-envelope
       - name: "Evan Suggs*"
         role: "Research Software Engineer"
         image: assets/img/team/3.jpg
         social:
-          - url: mailto:esuggs@tntech.edu
-            icon: fas fa-envelope
+            - url: mailto:esuggs@tntech.edu
+              icon: fas fa-envelope
 
  # contact:
  #   title: "Contact Us"
