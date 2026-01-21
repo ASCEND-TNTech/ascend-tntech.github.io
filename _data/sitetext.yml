@@ -16,57 +16,11 @@ en: &DEFAULT_EN
     button: What is ASCEND?
     buttonlink: "#about"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
   portfolio:
-    title: "Research"
+    title: "Articles"
     text: ""
     section: portfolio
-    closebutton: "Close Project"
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    closebutton: "Close"
 
   about:
     title: "About Us"
@@ -84,48 +38,37 @@ en: &DEFAULT_EN
        members:
        - name: "Anthony Skjellum"
          role: "Center Director"
-         image: "Anthony Skjellum.jpg"
          email: "askjellum@tntech.edu"
        - name: "Corbin Cawood"
-         role: "<br>"
-         image: "Corbin Cawood.jpg"
          email: "ccawood@tntech.edu"
        - name: "Riley Shipley"
          role: "Research Software Engineer"
-         image: "Riley Shipley.jpg"
          email: "rshipley@tntech.edu"
-       - name: "Katherine Cosner"
-         role: "<br>"
-         image: "missing.png"
-         email: "kcosner@tntech.edu"
+       - name: "Katherine Conser"
+         email: "kconser@tntech.edu"
        - name: "Evan Suggs"
          role: "Research Software Engineer"
-         image: "missing.png"
          email: "esuggs@tntech.edu"
        - name: "Sumana Aich"
-         role: "<br>"
-         image: "Sumana Aich.jpg"
          email: "saich@tntech.edu"
      - category: "Graduate Students"
        members:
+       - name: "Nicole Avans"
+       - name: "Evelyn Namugwanya"
+       - name: "Grace Nansamba"
        - name: "Nathan Whiteaker"
          role: "Junior System Administrator"
-         image: "missing.png"
          email: "njwhiteake42@tntech.edu"
+         image-override: "missing.png"
      - category: "Undergraduate Students"
        members:
        - name: "Javontae Martin"
-         role: "<br>"
-         image: "Javontae Martin.jpg"
        - name: "Drew Meketi"
-         role: "<br>"
-         image: "Drew Meketi.jpg"
        - name: "Kaelyn Parris"
-         role: "<br>"
-         image: "Kaelyn Parris.jpg"
        - name: "Corbyn Thomas"
-         role: "<br>"
-         image: "Corbyn Thomas.jpg"
+       - name: "Shawn Shankar"
+       - name: "Constanza Zurita Valdebenito"
+         role: "Applied Physics Simulation Developer"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

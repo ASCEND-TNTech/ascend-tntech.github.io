@@ -18,9 +18,17 @@
 		{% for person in team.members %}
 		<div class="col-sm-4">
 			<div class="team-member">
-				<img class="mx-auto rounded-circle" src="assets/img/team/{{ person.image }}" alt="Picture of {{ person.name }}">
+			        {% if person.image-override %}
+					<img class="mx-auto rounded-circle" src="assets/img/team/{{ person.image-override }}" alt="Picture of {{ person.name }}">
+			        {% else %}
+			                <img class="mx-auto rounded-circle" src="assets/img/team/{{ person.name }}.jpg" alt="Picture of {{ person.name }}">
+			        {% endif %}
 				<h4>{{ person.name }}</h4>
-				<p class="text-muted">{{ person.role }}</p>
+				{% if person.role %}
+					<p class="text-muted">{{ person.role }}</p>
+				{% else %}
+					<br>
+				{% endif %}
 				{% if team.category == "Full-Time" %} 
 				<ul class="list-inline social-buttons">
 				  <li class="list-inline-item">
