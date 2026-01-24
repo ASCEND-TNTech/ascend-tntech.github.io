@@ -1,6 +1,6 @@
 ---
-title: ASCEND @ SC24
-subtitle: Information about ASCEND's time at SC24.
+title: ASCEND at SC24
+subtitle: Tech students and faculty shine at SC24 conference
 image: assets/img/portfolio/02-full.jpg
 alt: HPC
 link: project2

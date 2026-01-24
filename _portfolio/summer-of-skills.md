@@ -1,11 +1,11 @@
 ---
 title: Summer of Skills
-subtitle: Information about ASCEND's Summer of Skills
+subtitle: Tech students sharpen HPC skills through national lab internships
 link: project3
 
 caption:
   title: Summer of Skills
-  subtitle: "Information about ASCEND's Summer of Skills"
+  subtitle: "Tech students sharpen HPC skills through national lab internships"
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 ![grace](assets/img/portfolio/summer-of-success/Grace-Nansamba.jpg){: width="50%"}<br>

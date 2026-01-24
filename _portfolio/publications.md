@@ -1,11 +1,11 @@
 ---
-title: Papers
-subtitle: Research papers related to ASCEND.
+title: Research Contributions
+subtitle: ""
 link: project1
 
 caption:
-  title: Papers
-  subtitle: "Research papers related to ASCEND."
+  title: Research Contributions
+  subtitle: ""
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 # Research Contributions
