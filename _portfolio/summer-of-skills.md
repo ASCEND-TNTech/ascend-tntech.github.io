@@ -9,7 +9,7 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 ![grace](assets/img/portfolio/summer-of-success/Grace-Nansamba.jpg){: width="50%"}<br>
-*Grace Nansamba*
+*Dr. Grace Nansamba, PhD*
 
 
 ![evelyn](assets/img/portfolio/summer-of-success/Intern_Evelyn_Namugwanya.jpg){: width="50%"}<br>

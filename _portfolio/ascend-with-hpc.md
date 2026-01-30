@@ -6,7 +6,7 @@ alt: HPC
 link: project2
 
 caption:
-  title: ASCEND @ SC24
+  title: ASCEND at SC24
   subtitle: "Information about ASCEND's time at SC24."
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---

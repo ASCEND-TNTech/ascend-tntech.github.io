@@ -23,7 +23,15 @@
 			        {% else %}
 			                <img class="mx-auto rounded-circle" src="assets/img/team/{{ person.name }}.jpg" alt="Picture of {{ person.name }}">
 			        {% endif %}
-				<h4>{{ person.name }}</h4>
+			        
+			        {% if person.name-override %}
+					<h4>{{ person.name-override }}</h4>
+			        {% elsif team.category contains "Faculty" %}
+			        	<h4>{{ person.name }}, PhD</h4>
+				{% else %}
+					<h4>{{ person.name }}</h4>
+				{% endif %}
+				
 				{% if person.role %}
 					<p class="text-muted">{{ person.role }}</p>
 				{% else %}
