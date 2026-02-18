@@ -82,11 +82,9 @@ en: &DEFAULT_EN
          name-override: "Grace Nansamba, PhD"
      - category: "Graduate Students"
        members:
-       - name: "Sepideh Adbollah"
-         image-override: "missing.png"
+       - name: "Sepideh Abdollah"
        - name: "Nicole Avans"
        - name: "Rajat Bisht"
-         image-override: "missing.png"
        - name: "Thomas Hines"
          image-override: "missing.png"
        - name: "Evelyn Namugwanya"
