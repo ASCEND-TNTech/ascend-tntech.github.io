@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Team"
       section: team
-    - title: "Request Access to DeepSix"
-      url: deepsix-request-access
+    - title: "Request Access"
+      url: request-access
 en-US:
   <<: *DEFAULT_EN
 en-CA:
