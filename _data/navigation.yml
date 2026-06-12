@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Team"
       section: team
     - title: "Request Access to DeepSix"
-      url: deepsix_request_access
+      url: deepsix-request-access
 en-US:
   <<: *DEFAULT_EN
 en-CA:
