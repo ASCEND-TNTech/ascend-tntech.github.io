@@ -57,7 +57,7 @@ en: &DEFAULT_EN
          email: "saich@tntech.edu"
        - name: "Nathan Whiteaker"
          role: "Junior System Administrator"
-         email: "njwhiteake42@tntech.edu"
+         email: "nwhiteaker@tntech.edu"
          image-override: "missing.png"
      - category: "Core Faculty"
        members:
